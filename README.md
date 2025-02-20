@@ -75,6 +75,12 @@ Beyond technical skills, I prioritize effective communication, teamwork, and con
 🌐 **LinkedIn:** [linkedin.com/in/speranza-deejoe-a6b467222/](https://www.linkedin.com/in/speranza-deejoe-a6b467222/)  
 🌟 **Portfolio:** [speranzadeejoe.github.io/My-Personal-Portfolio/portfolio1.html](https://speranzadeejoe.github.io/My-Personal-Portfolio/portfolio1.html)  
 
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speranzadeejoe&layout=compact&theme=github_dark&langs_count=8)
+
+
 ---  
 
 _"Data is the new oil, and I strive to refine it into meaningful insights."_ 🚀
