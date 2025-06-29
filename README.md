@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-I am an aspiring Data Scientist passionate about **complex data analysis**, **machine learning**, and **AI-driven solutions**. Pursuing a **Bachelor's in Computer Science and Engineering** at SRM Institute of Science and Technology, I focus on solving real-world challenges through data-driven insights.
+I am an aspiring Data Scientist passionate about **complex data analysis**, **machine learning**, and **AI-driven solutions**. I have completed **Btech in Computer Science and Engineering** at SRM Institute of Science and Technology, I focus on solving real-world challenges through data-driven insights.
 
 My interests include:
 - 📊 Large-scale data management and statistical analysis  
@@ -24,7 +24,7 @@ Beyond technical skills, I prioritize effective communication, teamwork, and con
 - **Python**, **C**, **C++**, **R**, **HTML**, **CSS**, **JavaScript**, **SQL**, **MongoDB**, **MySQL**  
 
 ### 🛠️ Tools & Frameworks  
-- **Scikit-Learn**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, **Power BI**, **Tkinter**, **RStudio**, **Jupyter Notebook**, **Colab**, **VS Code**, **Full Stack Development**
+- **Scikit-Learn**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, **Power BI**, **Tkinter**, **RStudio**, **Jupyter Notebook**, **Colab**, **VS Code**, **Full Stack Development**,**PowerBI**,**Tableau**
 
 ------
 
