@@ -24,12 +24,12 @@ Beyond technical skills, I prioritize effective communication, teamwork, and con
 - **Python**, **C**, **C++**, **R**, **HTML**, **CSS**, **JavaScript**, **SQL**, **MongoDB**, **MySQL**  
 
 ### 🛠️ Tools & Frameworks  
-- **Scikit-Learn**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, **Power BI**, **Tkinter**, **RStudio**, **Jupyter Notebook**, **Colab**, **VS Code**, **Full Stack Development**,**PowerBI**,**Tableau**
+- **Scikit-Learn**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, **Tkinter**, **RStudio**, **Jupyter Notebook**, **Colab**, **VS Code**, **Full Stack Development**,**PowerBI**,**Tableau**
 
 ------
 
 ## 💼 Professional Experience  
-- **Tech Advisor & Trainer** @ Zenanvibe *(Dec 2024 – Present)*  
+- **Tech Advisor & Trainer** @ Zenanvibe *(Dec 2024 – July 2025)*  
   Conducting workshops on IT trends and delivering guest lectures.  
 - **Research Intern** @ CLRI, Chennai *(Sep 2024 – Dec 2024)*  
   Worked on optimizing supply chain processes using ML.  
