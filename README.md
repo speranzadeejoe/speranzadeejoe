@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Speranza Deejoe**!
 
 🎓 **Aspiring Data Scientist | Machine Learning Enthusiast | AI Innovator**  
-📍 Chennai, India | 🌐 [LinkedIn](https://www.linkedin.com/in/speranza-deejoe-a6b467222/) | 💻 [GitHub](https://github.com/speranzadeejoe) | 📧 [speranzadeejoe@gmail.com](mailto:speranzadeejoe@gmail.com)
+📍 Chennai, India | 🌐 [LinkedIn](https://www.linkedin.com/in/speranza-deejoe-a6b467222/) | 💻 [GitHub](https://github.com/speranzadeejoe) | 📧 [speranzadeejoemini@gmail.com](mailto:speranzadeejoemini@gmail.com)
 
 ---
 
@@ -45,16 +45,18 @@ Beyond technical skills, I prioritize effective communication, teamwork, and con
 ---
 
 ## 📚 Research & Publications  
+- **Intelligent Text Summarization Engine using Machine Learning ** *(April 2025)*  
+  Presented At: International Conference in Pathway of Electrical,Automation,Communication and Electronics 
 - **Assessing the Impact of Automation and AI on Supply Chain Resilience** *(Dec 2024)*  
   Presented at National Conference on Recent Trends in Climate Change.  
 - **Proactive Malware Detection Using Random Forest** *(Nov 2024)*  
-  Publication in progress – UGC Certified Journal.  
+  Presented At: National Conference on Recent Trends in Climate Change, Energy and Sustainability   
 - **Unveiling Expressions: Automating Bharatnatyam Mudra Recognition** *(Mar 2024)*  
   Published in IJPREMS; presented at Christ University.  
 - **AI Enhanced Movement Detection** *(Mar 2024)*  
   Published in International Journal for Multidisciplinary Research.  
 - **Currency Authenticity Verification System** *(May 2024)*  
-  Submitted to a Scopus-indexed journal.  
+  Presented At: International Conference ITDECC – 2024, SRM IST .  
 - **Insiders Security Using Graph Analysis** *(Jul 2024)*  
   Published in IJCRT.  
 
@@ -70,7 +72,7 @@ Beyond technical skills, I prioritize effective communication, teamwork, and con
 ---
 
 ## 📬 Let’s Connect!  
-📧 **Email:** [speranzadeejoe@gmail.com](mailto:speranzadeejoe@gmail.com)  
+📧 **Email:** [speranzadeejoemini@gmail.com](mailto:speranzadeejoe@gmail.com)  
 💻 **GitHub:** [github.com/speranzadeejoe](https://github.com/speranzadeejoe)  
 🌐 **LinkedIn:** [linkedin.com/in/speranza-deejoe-a6b467222/](https://www.linkedin.com/in/speranza-deejoe-a6b467222/)  
 🌟 **Portfolio:** [speranzadeejoe.github.io/My-Personal-Portfolio/portfolio1.html](https://speranzadeejoe.github.io/My-Personal-Portfolio/portfolio1.html)  
