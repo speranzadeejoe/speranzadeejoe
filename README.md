@@ -24,7 +24,7 @@ Beyond technical skills, I prioritize effective communication, teamwork, and con
 - **Python**, **C**, **C++**, **R**, **HTML**, **CSS**, **JavaScript**, **SQL**, **MongoDB**, **MySQL**  
 
 ### 🛠️ Tools & Frameworks  
-- **Scikit-Learn**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, **Tkinter**, **RStudio**, **Jupyter Notebook**, **Colab**, **VS Code**, **Full Stack Development**,**PowerBI**,**Tableau**
+- **Scikit-Learn**,**TensorFlow**,**Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, **Tkinter**, **RStudio**, **Jupyter Notebook**, **Colab**, **VS Code**, **Full Stack Development**,**PowerBI**,**Tableau**
 
 ------
 
