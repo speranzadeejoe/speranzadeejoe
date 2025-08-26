@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Speranza Deejoe**!
 
 🎓 **Aspiring Data Scientist | Machine Learning Enthusiast | AI Innovator**  
-📍 Chennai, India | 🌐 [LinkedIn](https://www.linkedin.com/in/speranza-deejoe-a6b467222/) | 💻 [GitHub](https://github.com/speranzadeejoe) | 📧 [speranzadeejoemini@gmail.com](mailto:speranzadeejoemini@gmail.com)
+📍 Adelaide, Australia | 🌐 [LinkedIn](https://www.linkedin.com/in/speranza-deejoe-a6b467222/) | 💻 [GitHub](https://github.com/speranzadeejoe) | 📧 [speranzadeejoemini@gmail.com](mailto:speranzadeejoemini@gmail.com)
 
 ---
 
