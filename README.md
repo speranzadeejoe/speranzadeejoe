@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-I am an aspiring Data Science passionate about **complex data analysis**, **machine learning**, and **AI-driven solutions**. I am currently pursuing **Master of Datascience** at the University Of Adelaide, Australia, I focus on solving real-world challenges through data-driven insights.
+I am an aspiring Data Scientist passionate about **complex data analysis**, **machine learning**, and **AI-driven solutions**. I am currently pursuing **Master of Datascience** at the University Of Adelaide, Australia, I focus on solving real-world challenges through data-driven insights.
 
 My interests include:
 - 📊 Large-scale data management and statistical analysis  
